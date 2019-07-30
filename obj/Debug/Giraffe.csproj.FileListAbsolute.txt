@@ -1,0 +1,7 @@
+C:\Users\jessi\source\repos\Giraffe\Giraffe\bin\Debug\Giraffe.exe.config
+C:\Users\jessi\source\repos\Giraffe\Giraffe\bin\Debug\Giraffe.exe
+C:\Users\jessi\source\repos\Giraffe\Giraffe\bin\Debug\Giraffe.pdb
+C:\Users\jessi\source\repos\Giraffe\Giraffe\obj\Debug\Giraffe.csprojAssemblyReference.cache
+C:\Users\jessi\source\repos\Giraffe\Giraffe\obj\Debug\Giraffe.csproj.CoreCompileInputs.cache
+C:\Users\jessi\source\repos\Giraffe\Giraffe\obj\Debug\Giraffe.exe
+C:\Users\jessi\source\repos\Giraffe\Giraffe\obj\Debug\Giraffe.pdb
